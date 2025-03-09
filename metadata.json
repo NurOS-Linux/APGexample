@@ -1,0 +1,17 @@
+{
+    "name": "apgexample",
+    "version": "0.0.0",
+    "architecture": "x86_64",
+    "description": "The APG example package for NurOS (Tulpar).",
+    "maintainer": "NurOS Developers",
+    "license": null,
+    "homepage": "https://nuros.org",
+    "dependencies": [],
+    "conflicts": [
+        "testapg"
+    ],
+    "provides": [],
+    "replaces": [
+        "example-apg"
+    ]
+}

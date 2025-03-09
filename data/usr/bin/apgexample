@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "This is example APG. To remove this package run: tulpar remove apgexample"
