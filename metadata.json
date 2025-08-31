@@ -20,5 +20,8 @@
     "replaces": [
         "example-apg"
     ],
-    "conf": "/etc/example.conf"
+    "conf": [
+        "/etc/example.conf",
+        "$HOME/exmplrc"
+    ]
 }
