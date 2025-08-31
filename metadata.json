@@ -5,6 +5,11 @@
     "description": "The APG example package for NurOS (Tulpar).",
     "maintainer": "NurOS Developers",
     "license": null,
+    "tags": [
+        "example",
+        "test",
+        "apg"
+    ]
     "homepage": "https://nuros.org",
     "dependencies": [],
     "conflicts": [
